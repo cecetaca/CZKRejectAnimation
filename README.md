@@ -1,4 +1,9 @@
 # CZKRejectAnimation
+
+[![License](https://img.shields.io/cocoapods/l/RZVibrantButton.svg?style=flat)](http://cocoapods.org/pods/RZVibrantButton)
+[![Platform](https://img.shields.io/cocoapods/p/RZVibrantButton.svg?style=flat)](http://cocoapods.org/pods/RZVibrantButton)
+![language](https://img.shields.io/badge/Language-%20Swift%20-orange.svg)
+
 A very simple animation that can be applied to a UIView object. Normally used to reject information entered by the user in a text field.
 
 Comes with sample project.
